@@ -23,7 +23,7 @@ Insta-Chef is a website that enables you to discover new recipes for your culina
 The easiest way to run this project is to run it locally. 
 Installation can be done with the following three shell commands
 ```
-git clone https://github.com/pranavs2001/Insta-Chef
+git clone https://github.com/drakecote/ECE188.git
 cd Insta-Chef
 npm install
 ```
